@@ -1,11 +1,18 @@
 * {
     font-family: Arial;
-    font-size: 16px;
-
+    
 }
 
 body {
     background-color: rgb(140, 102, 184)
+}
+
+h2{
+    color: rgb(65, 0, 65);
+}
+
+h1{
+    color: rgb(65, 0, 65);
 }
 
 main {
@@ -14,4 +21,5 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+    font-size: 16px;
 }
